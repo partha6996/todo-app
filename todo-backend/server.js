@@ -27,6 +27,6 @@ app.post("/",(req,res)=>{
 
 const PORT = 3001;
 app.listen(PORT,()=>{
-    console.log('Server is runnin on the port ${PORT}')
+    console.log('Server is running on the port ${PORT}')
 
 })
